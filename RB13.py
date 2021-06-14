@@ -1,4 +1,4 @@
-#Matematica estructural y logica: Raid Battle Semana 12
+#Matematica estructural y logica: Raid Battle Semana 13
 #Camilo Andres Morillo Cervantes - 202015224
 #Basado en: https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm\
 
